@@ -13,4 +13,4 @@ We cannot take any responsibility for the stability or privacy of the Toggl serv
 
 Your continued use of the JustStarted application will be regarded as acceptance of our practices around privacy and personal information. If you have any questions about how we handle user data and personal information, feel free to contact us.
 
-This policy is effective as of 2 September 20202.
+This policy is effective as of 2 September 2020.
