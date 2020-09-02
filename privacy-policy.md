@@ -1,7 +1,7 @@
 ## Privacy Policy For JustStarted
 Your privacy is very important to us. We will never sell or share your information.
 
-With the release of v1.0.0 we have removed all Google Analytics tracking and all related collected tracking data has been deleted.
+With the release of v1.0.0 we have removed all Google Analytics tracking and all related collected tracking data has been deleted. For previous versions please see the [old privacy policy](https://github.com/jacobpretorius/JustStarted/blob/master/Privacy-Policy-v0.9.2.md).
 
 We will **never access your Toggl account** or any of its related data. We also have no means to access your account.
 
